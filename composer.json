@@ -1,0 +1,11 @@
+{
+    "name": "yshi/php_test",
+    "description": "A PHP test",
+    "homepage": "https://google.com/",
+    "support": {
+        "email": "yshi@duosecurity.com"
+    },
+    "require": {
+        "php": ">=5.6"
+    },
+}
